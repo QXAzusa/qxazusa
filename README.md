@@ -4,6 +4,7 @@
 ```text
 🎮 Muse Dash                        🕘 149 hrs 39 mins
 🎮 Mirror 2: Project X              🕘 42 hrs 15 mins
+🎮 NieR:Automata™                   🕘 33 hrs 48 mins
 🎮 Fall Guys                        🕘 13 hrs 34 mins
 🎮 Mirror                           🕘 10 hrs 16 mins
 🎮 MUSYNX                           🕘 7 hrs 18 mins
