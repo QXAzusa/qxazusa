@@ -1,5 +1,5 @@
 ## Notice
-The account has been migrated to Gitlab, Github account update will be slow.
+Account has been migrated to Gitlab. Content updates for Github will be slower
 
 [gitlab.com/QXAzusa](https://gitlab.com/QXAzusa)
 ## My Commitment
