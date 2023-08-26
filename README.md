@@ -1,12 +1,17 @@
-### 我的承诺
-1.不在自己的项目中宣传虚拟主播等无关内容
+## Notice
+The account has been migrated to Gitlab, Github account update will be slow.
 
-2.不在自己的开源项目中写入盈利性内容
+[gitlab.com/QXAzusa](https://gitlab.com/QXAzusa)
+## My Commitment
 
-3.不在自己的项目中“藏毒”
+Not promoting unrelated content like Vtuber in my projects.
 
-4.不编写任何收集用户信息的代码
+Not inserting profit-oriented content in my open-source projects.
 
-5.不将Github用作付费软件分发平台
+Not hiding malicious codes in my projects.
+
+Not writing any code that collects user information.
+
+Not using Github as a platform for distributing paid software.
 
 [![QXAzusa's github stats](https://github-readme-stats.vercel.app/api?username=QXAzusa&count_private=false&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)](https://github.com/QXAzusa/)
