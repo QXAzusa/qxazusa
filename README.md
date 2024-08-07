@@ -1,7 +1,3 @@
-## Notice
-Account has been migrated to Gitlab. Content updates for Github will be slower
-
-[gitlab.com/QXAzusa](https://gitlab.com/QXAzusa)
 ## My Commitment
 
 Not promoting unrelated content like Vtuber in my projects.
