@@ -1,11 +1,15 @@
-## My Commitment
+<h2 align="center">👋 Hello! Here is QXAzusa.</h2>
 
-Not promoting unrelated content like Vtuber in my projects.
+Website owner of [QXAZUSA.XYZ](https://www.qxazusa.xyz) & [HOSIMIYASIO.COM](https://www.hosimiyasio.com)
 
-Not inserting profit-oriented content in my open-source projects.
+- 🔭 A geek, otaku and coser
+- 💬 Mostly use **Python, Java and English**
+- 📖 Currently learning **Rust, Go and Japanese**
+- 📫 How to reach me: [@QXAzusa](https://x.com/QXAzusa) on Twitter
 
-Not hiding malicious codes in my projects.
+## Won't Do
+Promote unrelated content like Vtuber in my projects.
 
-Not writing any code that collects user information.
+Add profit-oriented content in my open-source projects.
 
-Not using Github as a platform for distributing paid software.
+Hide malicious codes in my projects.
